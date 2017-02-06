@@ -1,0 +1,9 @@
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\NUnit.Tests1\bin\Debug\nunit.framework.dll
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\NUnit.Tests1\bin\Debug\TestingNunit.exe
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\NUnit.Tests1\bin\Debug\TestingNunit.pdb
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\NUnit.Tests1\bin\Debug\nunit.framework.xml
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojResolveAssemblyReference.cache
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb

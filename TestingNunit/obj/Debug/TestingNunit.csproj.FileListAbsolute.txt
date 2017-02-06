@@ -1,0 +1,5 @@
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\TestingNunit\bin\Debug\TestingNunit.exe.config
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\TestingNunit\bin\Debug\TestingNunit.exe
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\TestingNunit\bin\Debug\TestingNunit.pdb
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\TestingNunit\obj\Debug\TestingNunit.exe
+c:\users\mueez\documents\visual studio 2015\Projects\TestingNunit\TestingNunit\obj\Debug\TestingNunit.pdb
